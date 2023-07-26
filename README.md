@@ -2,4 +2,4 @@
 
 [embed]Report.pdf[/embed]
 
-https://docs.google.com/viewer?url=${https://github.com/jjaskirat/Street-Sign-Classification/blob/update-readme/Report.pdf}
+https://docs.google.com/viewer?url=https://github.com/jjaskirat/Street-Sign-Classification/blob/update-readme/Report.pdf
